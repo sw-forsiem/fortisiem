@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<InstallConfig Version="1">
+	  <Org>
+	    <ID>2014</ID>
+	    <Name>RiHappy</Name>
+	  </Org>
+	  <Super>
+	    <Name>HOST</Name>
+	    <Port>443</Port>
+	  </Super>
+    <HostName>Homologação01</HostName>
+    <Registration>
+	    <Username>USERNAME</Username>
+	    <Password>PASS</Password>
+         </Registration>
+	  <Proxy>
+	    <Server></Server>
+	    <Port></Port>
+	  </Proxy>
+	  <SSLCertificate>ignore</SSLCertificate>
+	</InstallConfig> 
